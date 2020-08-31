@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartheek</h1>
-<h3 align="center">A tech seeker from India :india:</h3>
+<h3 align="center">A tech seeker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4rth33k" alt="k4rth33k" /> </p>
 
 - 🌱 I’m currently trying to learning **EVERYTHING!**
 
-- 👨‍💻 All of my projects are available at [k4rth33k.github.io](k4rth33k.github.io)
+- 👨‍💻 All of my projects are available at [https://k4rth33k.github.io/](k4rth33k.github.io)
 
 - 💬 Ask me about **Deep Learning**
 
