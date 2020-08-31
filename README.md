@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to learning **EVERYTHING!**
 
-- 👨‍💻 All of my projects are available at [https://k4rth33k.github.io/](k4rth33k.github.io)
+- 👨‍💻 All of my projects are available at [k4rth33k.github.io](k4rth33k.github.io)
 
 - 💬 Ask me about **Deep Learning**
 
