@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [k4rth33k.github.io](k4rth33k.github.io)
 
-- 💬 Ask me about **Deep Learning**
+- 💬 Ask me about **Deep Learning** and **Cloud Architectures**
 
 - 📫 How to reach me **kartheek2000mike@gmail.com**
 
