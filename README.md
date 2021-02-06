@@ -55,5 +55,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kartheek-surampudi-0a535a163/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kartheek-surampudi-0a535a163/" height="30" width="30" /></a>
 <a href="https://kaggle.com/k4rth33k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="k4rth33k" height="30" width="30" /></a>
-<a href="https://instagram.com/k4rth33k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="k4rth33k" height="30" width="30" /></a>
+<!-- <a href="https://instagram.com/k4rth33k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="k4rth33k" height="30" width="30" /></a> -->
 </p>
