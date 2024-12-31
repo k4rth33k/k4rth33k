@@ -1,6 +1,6 @@
 <h3 align="center"> Hi 👋, I'm Kartheek </h3>
 
-- CTO at ScaleGenAI
+- CTO at TheAgentic (Formerly ScaleGenAI)
 - Can't get enough of AI and Systems engineering !
 - Reach me at kartheek2000mike@gmail.com
 
